@@ -2,9 +2,7 @@
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "STYLE GUIDE": "Aaah, the style guide! Take this path… %[Style Guide](http://anyurl.com)",
-    "style guide": "Aaah, the style guide! Take this path… %[Style Guide](http://anyurl.com)",
     "STYLEGUIDE": "Aaah, the style guide! Take this path… %[Style Guide](http://anyurl.com)",
-    "styleguide": "Aaah, the style guide! Take this path… %[Style Guide](http://anyurl.com)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
