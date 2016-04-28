@@ -1,10 +1,10 @@
 {
     "START": "Alright, let's start! 🚀 You can ask me anything about Quantum. I'm still learning but I already know quite a lot to help you with your onboarding. To dive into it type DESIGN, CONCEPT, or PROJECT.",
     "HELP": "🚑 Weeee-oooooo-weeee-ooooo, HELP IS NEAR! Type DESIGN, CONCEPT, or PROJECT.",
-    "DESIGN": "Alright, you can choose from the following design topics now 🎨 STYLE GUIDE, LAYOUTS, or DESIGN-PEOPLE.";
+    "DESIGN": "Alright, you can choose from the following design topics now 🎨 STYLE GUIDE, LAYOUTS, or DESIGN-PEOPLE.",
     "STYLE GUIDE": "Aaah, the style guide! Take this path… 😎 %[Style Guide](http://anyurl.com)",
     "STYLEGUIDE": "Aaah, the style guide! Take this path… 😎 %[Style Guide](http://anyurl.com)",
-    "LAYOUTS": "The always correctly measured and updated layouts can be found here %[Style Guide](http://anyurl.com)";
+    "LAYOUTS": "The always correctly measured and updated layouts can be found here %[Style Guide](http://anyurl.com)",
     "DESIGN-PEOPLE": "Jörg wears the design 🎩 while Yisela does all the actual work 😁",
     "CONCEPT": "Good choice! Go ahead by picking one of these: AXURE or CONCEPT-PEOPLE",
     "AXURE": "Luckily, everything has been well documented right here ✏️📐 %[Style Guide](http://anyurl.com)",
